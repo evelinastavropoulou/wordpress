@@ -1,0 +1,13 @@
+# WordPress ignored files
+wp-content/uploads/
+wp-config.php
+node_modules/
+*.sql
+.DS_Store
+.env
+vendor/
+.idea/
+.vscode/
+
+# Ignore Wordfence logs
+wp-content/wflogs/
