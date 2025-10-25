@@ -7,7 +7,7 @@ The store specializes in **sportswear, footwear, and gym equipment**, offering a
 
 ## Demo Video
 
-[![GymRats Demo Video](https://img.youtube.com/vi/IZdS4gnZKkA/0.jpg)](https://youtu.be/IZdS4gnZKkA)
+[![GymRats Demo Video](https://img.youtube.com/vi/yLHBovktLV4/0.jpg)](https://youtu.be/yLHBovktLV4)
 
 ## Tech Stack
 
